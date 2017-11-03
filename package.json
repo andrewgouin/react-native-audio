@@ -22,5 +22,6 @@
     "type": "git",
     "url": "git@github.com:andrewgouin/react-native-audio.git"
   },
+  "homepage": "https://github.com/andrewgouin/react-native-audio",
   "nativePackage": true
 }
